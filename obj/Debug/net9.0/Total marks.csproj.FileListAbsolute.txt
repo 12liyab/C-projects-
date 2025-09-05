@@ -1,0 +1,14 @@
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\bin\Debug\net9.0\Total marks.exe
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\bin\Debug\net9.0\Total marks.deps.json
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\bin\Debug\net9.0\Total marks.runtimeconfig.json
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\bin\Debug\net9.0\Total marks.dll
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\bin\Debug\net9.0\Total marks.pdb
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\obj\Debug\net9.0\Total marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\obj\Debug\net9.0\Total marks.AssemblyInfoInputs.cache
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\obj\Debug\net9.0\Total marks.AssemblyInfo.cs
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\obj\Debug\net9.0\Total marks.csproj.CoreCompileInputs.cache
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\obj\Debug\net9.0\Total marks.dll
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\obj\Debug\net9.0\refint\Total marks.dll
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\obj\Debug\net9.0\Total marks.pdb
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\obj\Debug\net9.0\Total marks.genruntimeconfig.cache
+C:\Users\LIYAB\OneDrive\Desktop\C#\Total marks\obj\Debug\net9.0\ref\Total marks.dll
