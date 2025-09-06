@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace Total_marks
 {
-    public partial class LoginForm : Form 
+    public partial class LoginForm : Form
     {
         // Simple hardcoded credentials for demo purposes
         private const string ValidUsername = "admin";
