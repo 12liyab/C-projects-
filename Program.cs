@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Total_marks
+namespace Total_marks 
 {
     internal static class Program
     {
