@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace Total_marks
 {
-    public partial class SettingsForm : Form
+    public partial class SettingsForm : Form 
     {
         public SettingsForm()
         {
