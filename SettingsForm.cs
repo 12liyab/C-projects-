@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Linq;
 
-namespace Total_marks
+namespace Total_marks 
 {
     public partial class SettingsForm : Form
     {
