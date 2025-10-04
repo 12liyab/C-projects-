@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 
 namespace Total_marks
-{
+{ 
     public partial class MainForm : Form
     {
         // Controls declaration
