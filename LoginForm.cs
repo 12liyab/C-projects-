@@ -17,7 +17,7 @@ namespace Total_marks
         private void InitializeComponent()
         {
             // Form setup
-            this.Text = "Student Marks Calculator - Login";
+            .Text = "Student Marks Calculator - Login";
             this.Size = new System.Drawing.Size(400, 250);
             this.StartPosition = FormStartPosition.CenterScreen;
             this.FormBorderStyle = FormBorderStyle.FixedDialog;
