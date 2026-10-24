@@ -9,7 +9,7 @@ namespace Total_marks
         private const string ValidUsername = "admin";
         private const string ValidPassword = "password123";
 
-        public LoginForm()
+        public Login()
         {
             InitializeComponent();
         }
