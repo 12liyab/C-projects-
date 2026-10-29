@@ -7,7 +7,7 @@ namespace Total_marks
     public partial class MainForm : Form
     {
         // Controls declaration
-        private TextBox txtStudentName;
+         TextBox txtStudentName;
         private TextBox txtStudentID;
         private TextBox txtClassTest;
         private TextBox txtMidsem;
