@@ -14,7 +14,7 @@ namespace Total_marks
             InitializeComponent();
         }
 
-       InitializeComponent()
+         private void InitializeComponent()
         {
             // Form setup
             this.Text = "Student Marks Calculator - Login";
