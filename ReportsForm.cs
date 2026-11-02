@@ -43,7 +43,7 @@ namespace Total_marks
             btnClassReport.BackColor = Color.SlateBlue;
             btnClassReport.ForeColor = Color.White;
             btnClassReport.Click += BtnClassReport_Click;
-            y += spacing;
+            y += ;
 
             Button btnGradeDistribution = CreateReportButton("Grade Distribution Chart", y);
             btnGradeDistribution.BackColor = Color.DarkSlateBlue;
