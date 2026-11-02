@@ -5,7 +5,7 @@
     <TargetFramework>net9.0-windows</TargetFramework>
     <RootNamespace>Total_marks</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable></Nullable>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
