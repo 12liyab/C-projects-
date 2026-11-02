@@ -11,7 +11,7 @@ namespace Total_marks
             InitializeComponent();
         }
 
-        private void InitializeComponent()
+        private  InitializeComponent()
         {
             this.Text = "Reports & Statistics";
             this.Size = new Size(500, 400);
