@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Linq;
 
- Total_marks
+namespace Total_marks
 {
     public partial class StudentManagementForm : Form
     {
