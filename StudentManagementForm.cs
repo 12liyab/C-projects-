@@ -14,7 +14,7 @@ namespace Total_marks
 
         private void InitializeComponent()
         {
-            this.Text = "Student Management";
+            .Text = "Student Management";
             this.Size = new Size(500, 400);
             this.StartPosition = FormStartPosition.CenterScreen;
             this.BackColor = Color.LightGoldenrodYellow;
