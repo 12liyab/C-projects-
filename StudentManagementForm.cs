@@ -26,7 +26,7 @@ namespace Total_marks
             lblTitle.Location = new Point(180, 20);
             lblTitle.AutoSize = true;
             lblTitle.ForeColor = Color.Goldenrod;
-            this.Controls.(lblTitle);
+            this.Controls.Add(lblTitle);
 
             // Student list (simulated with listbox)
             ListBox lstStudents = new ListBox();
