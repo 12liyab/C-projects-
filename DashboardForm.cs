@@ -6,7 +6,7 @@ namespace Total_marks
 {
     public partial class DashboardForm : Form
     {
-        public DashboardForm()
+        
         {
             InitializeComponent();
         }
