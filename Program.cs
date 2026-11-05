@@ -1,4 +1,4 @@
-﻿using System;
+﻿ System;
 using System.Windows.Forms;
 
 namespace Total_marks
