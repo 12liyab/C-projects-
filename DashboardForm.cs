@@ -11,7 +11,7 @@ namespace Total_marks
             InitializeComponent();
         }
 
-        private void InitializeComponent()
+         InitializeComponent()
         {
             this.Text = "Student Marks Calculator - Dashboard";
             this.Size = new Size(600, 400);
