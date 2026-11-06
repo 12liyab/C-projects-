@@ -67,7 +67,7 @@ namespace Total_marks
             this.Controls.Add(btnLogout);
         }
 
-     
+            private Button CreateNavButton(string text, int y)
         {
             Button button = new Button();
             button.Text = text;
