@@ -8,7 +8,7 @@ namespace Total_marks
     {
         public DashboardForm()
         {
-            
+          InitializeComponent();  
         }
 
         private void InitializeComponent()
